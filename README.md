@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Connect your Firebase
+Set Up your connecting with Firebase in src/config.js
